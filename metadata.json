@@ -1,0 +1,6 @@
+{
+  "name": "FerreStock - Ferretería Medrano",
+  "description": "Sistema de gestión y control de inventario para Ferretería Medrano",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
